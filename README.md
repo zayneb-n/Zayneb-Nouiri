@@ -3,7 +3,7 @@
 A passionate Data Scientist & ML Developer who thrives to contribute to the domain.
 
 - 🔭 I’m currently learning AI/Data Science/Machine Learning
-- 📝 I write articles on [Medium](https://medium.com/@zaynebnouiri2021) & [LinkedIn](www.linkedin.com/in/zeineb-nouiri)
+- 📝 I write articles on [Medium](https://medium.com/@zaynebnouiri2021) & [LinkedIn](https://linkedin.com/in/zeineb-nouiri)
 - 📫 How to reach me: [zaynebnouiri2021@gmail.com](mailto:zaynebnouiri2021@gmail.com)
 
 ## Skills:
