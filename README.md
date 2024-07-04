@@ -33,11 +33,7 @@ A passionate Data Scientist & ML Developer who thrives to contribute to the doma
 </p>
 
 ## Support:
-<p><a href="https://www.buymeacoffee.com/yourusername"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p><br><br>
+<p><a href="buymeacoffee.com/zayneb.n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p><br><br>
 
 ## GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
-## Profile Views:
-![](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayneb-n&show_icons=true)
