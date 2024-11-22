@@ -7,10 +7,11 @@ A passionate Data Scientist & ML Developer who thrives to contribute to the doma
 - 📫 How to reach me: [zaynebnouiri2021@gmail.com](mailto:zaynebnouiri2021@gmail.com)
 
 ## Skills:
-- **Machine Learning:** Python, scikit-learn, 
+- **Machine Learning:** Python, scikit-learn,
+- **Deep Learning:** TensorFlow
 - **Data Analysis:** pandas, NumPy, Matplotlib, Seaborn
 - **Web Development:** Django
-- **Database Management:** MySQL
+- **Database:** SQL, NoSql
 - **Business Analytics:** Business Intelligence graduate with skills in business analytics
 
 ## Connect with me:
@@ -31,9 +32,6 @@ A passionate Data Scientist & ML Developer who thrives to contribute to the doma
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <!-- Add more languages and tools here -->
 </p>
-
-## Support:
-<p><a href="buymeacoffee.com/zayneb.n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p><br><br>
 
 ## GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayneb-n&show_icons=true)
