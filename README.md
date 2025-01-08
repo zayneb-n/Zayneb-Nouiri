@@ -1,4 +1,4 @@
-# Hi 👋, I'm Zayneb Nouiri
+# Hi 👋, I'm Zayneb 
 
 A passionate Data Scientist & ML Developer who thrives to contribute to the domain.
 - 📧 How to reach me: [zaynebnouiri2021@gmail.com](mailto:zaynebnouiri2021@gmail.com) or [LinkedIn](https://linkedin.com/in/zeineb-nouiri)
