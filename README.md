@@ -22,6 +22,3 @@ A passionate Data Scientist & ML Developer who thrives to contribute to the doma
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <!-- Add more languages and tools here -->
 </p>
-
-## GitHub Stats:
-![Zayneb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayneb-n&show_icons=true)
