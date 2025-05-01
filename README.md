@@ -10,6 +10,6 @@
 <a href="https://keras.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://monai.io/" target="_blank"> <img src="https://raw.githubusercontent.com/Project-MONAI/logo/main/monai-logo-color.svg" alt="monai" width="40" height="40"/> </a>
+<a href="https://monai.io/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fproject-monai&psig=AOvVaw18Vgw0wZc46UqeI6_CeSwf&ust=1746190085409000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCdtJCngo0DFQAAAAAdAAAAABAE" alt="monai" width="40" height="40"/> </a>
 </p>
 
