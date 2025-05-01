@@ -1,8 +1,3 @@
-# Hi 👋, I'm Zayneb 
-
-A passionate Data Scientist & ML Developer who thrives to contribute to the domain.
-- 📧 How to reach me: [zaynebnouiri2021@gmail.com](mailto:zaynebnouiri2021@gmail.com) or [LinkedIn](https://linkedin.com/in/zeineb-nouiri)
-
 ## Languages and Tools:
 <p align="left">
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -14,5 +9,7 @@ A passionate Data Scientist & ML Developer who thrives to contribute to the doma
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://keras.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<!-- Add more languages and tools here -->
+<a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://monai.io/" target="_blank"> <img src="https://raw.githubusercontent.com/Project-MONAI/logo/main/monai-logo-color.svg" alt="monai" width="40" height="40"/> </a>
 </p>
+
